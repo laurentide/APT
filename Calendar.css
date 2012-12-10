@@ -1,0 +1,59 @@
+.cpYearNavigation,.cpMonthNavigation 
+/* Title - Navigation haut */
+{ background-color:#47448d; 
+	text-align:center; 
+	vertical-align:middle; 
+	text-decoration:none; 
+	color:white; 
+	font-weight:bold; 
+	font-family:Arial; font-size:10pt;  
+	} 
+
+/* Days */	
+.cpDayColumnHeader 
+{
+	font-weight:bold;
+	background-color:#b7badc;
+}
+
+/* Tout le texte */	
+.cpDayColumnHeader, .cpCurrentMonthDate,.cpOtherMonthDate,.cpCurrentDate,.cpTodayText,.cpText 
+{ font-family:Arial; font-size:9pt;
+	padding-left:1;
+	padding-right:2;  
+	} 
+	 	
+/* Entête contenant les lettres représentant les jours de la semaine */
+TD.cpDayColumnHeader 
+{ text-align:right; 
+	border:solid thin #003399;
+	border-width:0px 0px 1px 0px; 
+	} 
+	
+/* Alignement du texte */
+.cpCurrentMonthDate, .cpOtherMonthDate, .cpCurrentDate 
+{ text-align:right; 
+	text-decoration:none; 
+} 	
+
+/* chiffres du mois actuel */
+.cpCurrentMonthDate, .cpCurrentDate  { color:Navy; } 
+
+/* chiffres des autres mois affichés */
+.cpOtherMonthDate { color:#d4d5ef; } 
+
+/* Date Courante */
+TD.cpCurrentDate { background-color: #eaf1ff; border-width:1px; 
+	border:solid thin; border-color:#3b3a84; } 
+
+/* bordure du bas */
+TD.cpTodayText { border:solid thin #C0C0C0; border-width:1px 0px 0px 0px;} 
+
+/* Hauteur de la section du bas (Today) */
+A.cpTodayText { height:10px; } 
+
+/* Texte du bas (Today) */
+A.cpTodayText { color:Navy; font-weight:bold; } 
+ 
+/* Bordure du calendrier complet */
+.cpBorder { border:solid thin Navy; background-color:#eaf1ff;}

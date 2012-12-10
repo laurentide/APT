@@ -1,0 +1,31 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "APT", "http://localhost/APT/APT.vbproj", "{13C3542B-BBF2-4B6C-A9FB-4C13AC4C711A}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 2
+		SccLocalPath0 = .
+		CanCheckoutShared = false
+		SolutionUniqueID = {6FC5727C-848A-4EAD-A50F-407615E6FBC2}
+		SccProjectUniqueName1 = http://localhost/APT/APT.vbproj
+		SccLocalPath1 = .
+		CanCheckoutShared = false
+		SccProjectEnlistmentChoice1 = 2
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{13C3542B-BBF2-4B6C-A9FB-4C13AC4C711A}.Debug.ActiveCfg = Debug|.NET
+		{13C3542B-BBF2-4B6C-A9FB-4C13AC4C711A}.Debug.Build.0 = Debug|.NET
+		{13C3542B-BBF2-4B6C-A9FB-4C13AC4C711A}.Release.ActiveCfg = Release|.NET
+		{13C3542B-BBF2-4B6C-A9FB-4C13AC4C711A}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

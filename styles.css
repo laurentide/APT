@@ -1,0 +1,248 @@
+.liens {
+	font-family:Lucida Sans Unicode, Sans-Serif;
+	font-style:italic;
+	color:#330099;	
+	font-weight:bold;
+}
+
+.LiensRapports {
+	font-family:Lucida Sans Unicode, Sans-Serif;
+	font-size:13px;
+	color:#330099;		
+}
+
+.TexteRapport {
+	font-family:Lucida Sans Unicode;
+	font-size:14px;
+	font-weight:bold;
+}
+
+.Centre {
+	text-align:center;
+}
+
+div 
+{
+	border-width:thin;
+	border-style:inset;
+}
+
+.Gras {
+	font-weight:bold;
+}
+
+.Italique {
+	font-style:italic;
+}
+
+.BGDataGrid {
+	background-color:White;
+	padding-top:0px;
+	padding-bottom:0px;
+}
+
+.Enabled {
+	background-color:#C5C5CD;	
+}
+
+.Combobox 
+{
+	background-color:#fffff2;
+}
+
+.DDL, .Texte, .BoutonGrand, .Bouton {
+	font-family:Lucida Sans Unicode;
+	font-size:10px;	
+}
+
+.BoutonGrand {
+	width:180;
+	height:20;
+}
+
+.Bouton {
+	width:50;
+	height:20;	
+}
+
+.Bordure 
+{
+	border-width:thin;
+	border-style:ridge;
+	width:350px;
+}
+
+.Header {
+	color:White;
+	background-color:#010049;
+	font-family:Lucida Sans Unicode;
+	font-size:10px;	
+}
+
+.TableauRapports 
+{
+	border-width:thin;
+	border-style:ridge;
+}
+
+.Espaces {
+	padding-left:20px;
+	padding-right:10px;
+	text-align:right;
+}
+
+.EspacesCTR {
+	padding-left:10px;
+	padding-right:10px;
+}
+
+/* Report Styles */
+.TitreRapport  {
+	font-family:Lucida Sans Unicode;
+	font-size:25px;
+	font-weight:bold;
+	padding-left:20px;
+	padding-right:20px;
+}
+
+.EnteteRapport {
+	font-family:Lucida Sans Unicode;
+	font-size:14px;
+	font-weight:bold;
+	padding-left:20px;
+	padding-right:20px;
+}
+
+.SousTitresRapport {
+	font-family:Lucida Sans Unicode;
+	font-size:12px;
+	font-weight:bold;
+	padding-left:20px;
+	padding-right:20px;
+}
+
+
+.TexteGRapport {
+	font-family:Lucida Sans Unicode;
+	font-size:12px;	
+	padding-left:20px;
+	padding-right:20px;
+}
+
+.smalltext {
+	font-size:12px;	
+}
+
+.BordureHeader 
+{
+	border: solid 1 white;	
+	border-collapse:collapse;
+}
+
+.EspaceTableau 
+{
+	border-collapse:collapse;	
+}
+
+.BordureTableau 
+{
+	border: solid 1 Black;	
+	border-collapse:collapse;
+}
+
+.FieldForecast {
+	width:70px;
+	border-style:none;
+}
+
+.FieldInitiatives {
+	width:65px;
+	border-style:none;
+}
+
+.FieldGoals{
+	width:85px;
+	border-style:none;
+}
+
+.FieldInitiativesNotes {
+	width:177px;
+	background-color:#B3D9FF;
+	border-style:none;
+}
+
+.CurrentDiv {
+	font-weight:bold;
+	color:White;
+    background-color:#8181BA;
+    border-color: #999999 #555 #f63 #999;    
+}
+
+.OtherDiv {
+    background-color:#DDE0EF;
+	color:8181BA;
+    border-color: #aaa #aaa #aaa #999;
+}
+
+.CurrentDiv, .OtherDiv 
+{
+	text-align:center;
+	text-decoration:none;
+	font-family:Lucida Sans Unicode;
+	border-style:solid;
+	border-width:thin;
+	font-size:10px;	
+	height:20px;
+    width:150px;
+    border-bottom-width:0px;	
+}
+
+.ColumnPaleYellow
+{
+	background-color:#FFFF99;
+}
+
+.ColumnPaleGray
+{
+	background-color:#E8E8E8;
+}
+
+.ColumnPaleBlue
+{
+	background-color:#B3D9FF;
+}
+
+.ColumnInitiativeNotes
+
+{
+	background-color:#B3D9FF;
+}
+
+.TextEntry 
+{
+	background-color:#D6D9EF;
+}
+
+.DDLRegion 
+{
+	width:175px;
+}
+
+.ColumnYellow {
+	background-color:#FFFF00;	
+	color:black;
+}
+ 
+.ColumnGray {
+	background-color:#808080;		
+}
+
+.ColumnBlue  {
+	background-color:#0062C4;	
+}
+
+
+
+
+
+
